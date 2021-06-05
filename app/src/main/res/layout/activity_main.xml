@@ -10,5 +10,9 @@
     tools:context=".MainActivity">
 
 
-
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="285dp"
+        android:layout_height="60dp"
+        android:text="TextView" />
 </LinearLayout>
